@@ -1,0 +1,347 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Upper Body Mask
+  m_Mask: 00000000000000000000000000000000000000000100000001000000010000000100000000000000000000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: group
+    m_Weight: 1
+  - m_Path: group/group1
+    m_Weight: 1
+  - m_Path: group/group1/group2
+    m_Weight: 1
+  - m_Path: group/group1/group2/sborka_pod_uv_sdelannaya_Group45701
+    m_Weight: 1
+  - m_Path: group/group1/sborka_pod_uv_sdelannaya_Group13926
+    m_Weight: 1
+  - m_Path: group/group1/sborka_pod_uv_sdelannaya_Group15900
+    m_Weight: 1
+  - m_Path: group/group1/sborka_pod_uv_sdelannaya_Group29814
+    m_Weight: 1
+  - m_Path: group/group1/sborka_pod_uv_sdelannaya_Group31792
+    m_Weight: 1
+  - m_Path: group/group1/sborka_pod_uv_sdelannaya_Group47683
+    m_Weight: 1
+  - m_Path: group/group1/sborka_pod_uv_sdelannaya_Group63573
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_ChestEndEffector
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_ChestOriginEffector
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_HeadEffector
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_LeftUpLeg
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_LeftUpLeg/Zombie_Ctrl_LeftLeg
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_LeftUpLeg/Zombie_Ctrl_LeftLeg/Zombie_Ctrl_LeftFoot
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_LeftUpLeg/Zombie_Ctrl_LeftLeg/Zombie_Ctrl_LeftFoot/Zombie_Ctrl_LeftToeBase
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_RightUpLeg
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_RightUpLeg/Zombie_Ctrl_RightLeg
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_RightUpLeg/Zombie_Ctrl_RightLeg/Zombie_Ctrl_RightFoot
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_RightUpLeg/Zombie_Ctrl_RightLeg/Zombie_Ctrl_RightFoot/Zombie_Ctrl_RightToeBase
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_LeftShoulder
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_LeftShoulder/Zombie_Ctrl_LeftArm
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_LeftShoulder/Zombie_Ctrl_LeftArm/Zombie_Ctrl_LeftForeArm
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_LeftShoulder/Zombie_Ctrl_LeftArm/Zombie_Ctrl_LeftForeArm/Zombie_Ctrl_LeftHand
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_LeftShoulder/Zombie_Ctrl_LeftArm/Zombie_Ctrl_LeftForeArm/Zombie_Ctrl_LeftHand/Zombie_Ctrl_LeftHandIndex1
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_LeftShoulder/Zombie_Ctrl_LeftArm/Zombie_Ctrl_LeftForeArm/Zombie_Ctrl_LeftHand/Zombie_Ctrl_LeftHandIndex1/Zombie_Ctrl_LeftHandIndex2
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_LeftShoulder/Zombie_Ctrl_LeftArm/Zombie_Ctrl_LeftForeArm/Zombie_Ctrl_LeftHand/Zombie_Ctrl_LeftHandIndex1/Zombie_Ctrl_LeftHandIndex2/Zombie_Ctrl_LeftHandIndex3
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_LeftShoulder/Zombie_Ctrl_LeftArm/Zombie_Ctrl_LeftForeArm/Zombie_Ctrl_LeftHand/Zombie_Ctrl_LeftHandIndex1/Zombie_Ctrl_LeftHandIndex2/Zombie_Ctrl_LeftHandIndex3/Zombie_Ctrl_LeftHandIndex4
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_LeftShoulder/Zombie_Ctrl_LeftArm/Zombie_Ctrl_LeftForeArm/Zombie_Ctrl_LeftHand/Zombie_Ctrl_LeftHandMiddle1
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_LeftShoulder/Zombie_Ctrl_LeftArm/Zombie_Ctrl_LeftForeArm/Zombie_Ctrl_LeftHand/Zombie_Ctrl_LeftHandMiddle1/Zombie_Ctrl_LeftHandMiddle2
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_LeftShoulder/Zombie_Ctrl_LeftArm/Zombie_Ctrl_LeftForeArm/Zombie_Ctrl_LeftHand/Zombie_Ctrl_LeftHandMiddle1/Zombie_Ctrl_LeftHandMiddle2/Zombie_Ctrl_LeftHandMiddle3
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_LeftShoulder/Zombie_Ctrl_LeftArm/Zombie_Ctrl_LeftForeArm/Zombie_Ctrl_LeftHand/Zombie_Ctrl_LeftHandMiddle1/Zombie_Ctrl_LeftHandMiddle2/Zombie_Ctrl_LeftHandMiddle3/Zombie_Ctrl_LeftHandMiddle4
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_LeftShoulder/Zombie_Ctrl_LeftArm/Zombie_Ctrl_LeftForeArm/Zombie_Ctrl_LeftHand/Zombie_Ctrl_LeftHandPinky1
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_LeftShoulder/Zombie_Ctrl_LeftArm/Zombie_Ctrl_LeftForeArm/Zombie_Ctrl_LeftHand/Zombie_Ctrl_LeftHandPinky1/Zombie_Ctrl_LeftHandPinky2
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_LeftShoulder/Zombie_Ctrl_LeftArm/Zombie_Ctrl_LeftForeArm/Zombie_Ctrl_LeftHand/Zombie_Ctrl_LeftHandPinky1/Zombie_Ctrl_LeftHandPinky2/Zombie_Ctrl_LeftHandPinky3
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_LeftShoulder/Zombie_Ctrl_LeftArm/Zombie_Ctrl_LeftForeArm/Zombie_Ctrl_LeftHand/Zombie_Ctrl_LeftHandPinky1/Zombie_Ctrl_LeftHandPinky2/Zombie_Ctrl_LeftHandPinky3/Zombie_Ctrl_LeftHandPinky4
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_LeftShoulder/Zombie_Ctrl_LeftArm/Zombie_Ctrl_LeftForeArm/Zombie_Ctrl_LeftHand/Zombie_Ctrl_LeftHandRing1
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_LeftShoulder/Zombie_Ctrl_LeftArm/Zombie_Ctrl_LeftForeArm/Zombie_Ctrl_LeftHand/Zombie_Ctrl_LeftHandRing1/Zombie_Ctrl_LeftHandRing2
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_LeftShoulder/Zombie_Ctrl_LeftArm/Zombie_Ctrl_LeftForeArm/Zombie_Ctrl_LeftHand/Zombie_Ctrl_LeftHandRing1/Zombie_Ctrl_LeftHandRing2/Zombie_Ctrl_LeftHandRing3
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_LeftShoulder/Zombie_Ctrl_LeftArm/Zombie_Ctrl_LeftForeArm/Zombie_Ctrl_LeftHand/Zombie_Ctrl_LeftHandRing1/Zombie_Ctrl_LeftHandRing2/Zombie_Ctrl_LeftHandRing3/Zombie_Ctrl_LeftHandRing4
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_LeftShoulder/Zombie_Ctrl_LeftArm/Zombie_Ctrl_LeftForeArm/Zombie_Ctrl_LeftHand/Zombie_Ctrl_LeftHandThumb1
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_LeftShoulder/Zombie_Ctrl_LeftArm/Zombie_Ctrl_LeftForeArm/Zombie_Ctrl_LeftHand/Zombie_Ctrl_LeftHandThumb1/Zombie_Ctrl_LeftHandThumb2
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_LeftShoulder/Zombie_Ctrl_LeftArm/Zombie_Ctrl_LeftForeArm/Zombie_Ctrl_LeftHand/Zombie_Ctrl_LeftHandThumb1/Zombie_Ctrl_LeftHandThumb2/Zombie_Ctrl_LeftHandThumb3
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_LeftShoulder/Zombie_Ctrl_LeftArm/Zombie_Ctrl_LeftForeArm/Zombie_Ctrl_LeftHand/Zombie_Ctrl_LeftHandThumb1/Zombie_Ctrl_LeftHandThumb2/Zombie_Ctrl_LeftHandThumb3/Zombie_Ctrl_LeftHandThumb4
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_Neck
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_Neck/Zombie_Ctrl_Head
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_RightShoulder
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_RightShoulder/Zombie_Ctrl_RightArm
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_RightShoulder/Zombie_Ctrl_RightArm/Zombie_Ctrl_RightForeArm
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_RightShoulder/Zombie_Ctrl_RightArm/Zombie_Ctrl_RightForeArm/Zombie_Ctrl_RightHand
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_RightShoulder/Zombie_Ctrl_RightArm/Zombie_Ctrl_RightForeArm/Zombie_Ctrl_RightHand/Zombie_Ctrl_RightHandIndex1
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_RightShoulder/Zombie_Ctrl_RightArm/Zombie_Ctrl_RightForeArm/Zombie_Ctrl_RightHand/Zombie_Ctrl_RightHandIndex1/Zombie_Ctrl_RightHandIndex2
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_RightShoulder/Zombie_Ctrl_RightArm/Zombie_Ctrl_RightForeArm/Zombie_Ctrl_RightHand/Zombie_Ctrl_RightHandIndex1/Zombie_Ctrl_RightHandIndex2/Zombie_Ctrl_RightHandIndex3
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_RightShoulder/Zombie_Ctrl_RightArm/Zombie_Ctrl_RightForeArm/Zombie_Ctrl_RightHand/Zombie_Ctrl_RightHandIndex1/Zombie_Ctrl_RightHandIndex2/Zombie_Ctrl_RightHandIndex3/Zombie_Ctrl_RightHandIndex4
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_RightShoulder/Zombie_Ctrl_RightArm/Zombie_Ctrl_RightForeArm/Zombie_Ctrl_RightHand/Zombie_Ctrl_RightHandMiddle1
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_RightShoulder/Zombie_Ctrl_RightArm/Zombie_Ctrl_RightForeArm/Zombie_Ctrl_RightHand/Zombie_Ctrl_RightHandMiddle1/Zombie_Ctrl_RightHandMiddle2
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_RightShoulder/Zombie_Ctrl_RightArm/Zombie_Ctrl_RightForeArm/Zombie_Ctrl_RightHand/Zombie_Ctrl_RightHandMiddle1/Zombie_Ctrl_RightHandMiddle2/Zombie_Ctrl_RightHandMiddle3
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_RightShoulder/Zombie_Ctrl_RightArm/Zombie_Ctrl_RightForeArm/Zombie_Ctrl_RightHand/Zombie_Ctrl_RightHandMiddle1/Zombie_Ctrl_RightHandMiddle2/Zombie_Ctrl_RightHandMiddle3/Zombie_Ctrl_RightHandMiddle4
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_RightShoulder/Zombie_Ctrl_RightArm/Zombie_Ctrl_RightForeArm/Zombie_Ctrl_RightHand/Zombie_Ctrl_RightHandPinky1
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_RightShoulder/Zombie_Ctrl_RightArm/Zombie_Ctrl_RightForeArm/Zombie_Ctrl_RightHand/Zombie_Ctrl_RightHandPinky1/Zombie_Ctrl_RightHandPinky2
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_RightShoulder/Zombie_Ctrl_RightArm/Zombie_Ctrl_RightForeArm/Zombie_Ctrl_RightHand/Zombie_Ctrl_RightHandPinky1/Zombie_Ctrl_RightHandPinky2/Zombie_Ctrl_RightHandPinky3
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_RightShoulder/Zombie_Ctrl_RightArm/Zombie_Ctrl_RightForeArm/Zombie_Ctrl_RightHand/Zombie_Ctrl_RightHandPinky1/Zombie_Ctrl_RightHandPinky2/Zombie_Ctrl_RightHandPinky3/Zombie_Ctrl_RightHandPinky4
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_RightShoulder/Zombie_Ctrl_RightArm/Zombie_Ctrl_RightForeArm/Zombie_Ctrl_RightHand/Zombie_Ctrl_RightHandRing1
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_RightShoulder/Zombie_Ctrl_RightArm/Zombie_Ctrl_RightForeArm/Zombie_Ctrl_RightHand/Zombie_Ctrl_RightHandRing1/Zombie_Ctrl_RightHandRing2
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_RightShoulder/Zombie_Ctrl_RightArm/Zombie_Ctrl_RightForeArm/Zombie_Ctrl_RightHand/Zombie_Ctrl_RightHandRing1/Zombie_Ctrl_RightHandRing2/Zombie_Ctrl_RightHandRing3
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_RightShoulder/Zombie_Ctrl_RightArm/Zombie_Ctrl_RightForeArm/Zombie_Ctrl_RightHand/Zombie_Ctrl_RightHandRing1/Zombie_Ctrl_RightHandRing2/Zombie_Ctrl_RightHandRing3/Zombie_Ctrl_RightHandRing4
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_RightShoulder/Zombie_Ctrl_RightArm/Zombie_Ctrl_RightForeArm/Zombie_Ctrl_RightHand/Zombie_Ctrl_RightHandThumb1
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_RightShoulder/Zombie_Ctrl_RightArm/Zombie_Ctrl_RightForeArm/Zombie_Ctrl_RightHand/Zombie_Ctrl_RightHandThumb1/Zombie_Ctrl_RightHandThumb2
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_RightShoulder/Zombie_Ctrl_RightArm/Zombie_Ctrl_RightForeArm/Zombie_Ctrl_RightHand/Zombie_Ctrl_RightHandThumb1/Zombie_Ctrl_RightHandThumb2/Zombie_Ctrl_RightHandThumb3
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_Hips/Zombie_Ctrl_Spine/Zombie_Ctrl_Spine1/Zombie_Ctrl_Spine2/Zombie_Ctrl_RightShoulder/Zombie_Ctrl_RightArm/Zombie_Ctrl_RightForeArm/Zombie_Ctrl_RightHand/Zombie_Ctrl_RightHandThumb1/Zombie_Ctrl_RightHandThumb2/Zombie_Ctrl_RightHandThumb3/Zombie_Ctrl_RightHandThumb4
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_HipsEffector
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_LeftAnkleEffector
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_LeftElbowEffector
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_LeftFootEffector
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_LeftHandIndexEffector
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_LeftHandMiddleEffector
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_LeftHandPinkyEffector
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_LeftHandRingEffector
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_LeftHandThumbEffector
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_LeftHipEffector
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_LeftKneeEffector
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_LeftShoulderEffector
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_LeftWristEffector
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_RightAnkleEffector
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_RightElbowEffector
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_RightFootEffector
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_RightHandIndexEffector
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_RightHandMiddleEffector
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_RightHandPinkyEffector
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_RightHandRingEffector
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_RightHandThumbEffector
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_RightHipEffector
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_RightKneeEffector
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_RightShoulderEffector
+    m_Weight: 1
+  - m_Path: Zombie_Ctrl_Reference/Zombie_Ctrl_RightWristEffector
+    m_Weight: 1
+  - m_Path: Zombie_Reference
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_LeftUpLeg
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_LeftUpLeg/Zombie_LeftLeg
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_LeftUpLeg/Zombie_LeftLeg/Zombie_LeftFoot
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_LeftUpLeg/Zombie_LeftLeg/Zombie_LeftFoot/Zombie_LeftToeBase
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_RightUpLeg
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_RightUpLeg/Zombie_RightLeg
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_RightUpLeg/Zombie_RightLeg/Zombie_RightFoot
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_RightUpLeg/Zombie_RightLeg/Zombie_RightFoot/Zombie_RightToeBase
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_LeftShoulder
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_LeftShoulder/Zombie_LeftArm
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_LeftShoulder/Zombie_LeftArm/Zombie_LeftForeArm
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_LeftShoulder/Zombie_LeftArm/Zombie_LeftForeArm/Zombie_LeftHand
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_LeftShoulder/Zombie_LeftArm/Zombie_LeftForeArm/Zombie_LeftHand/Zombie_LeftHandIndex1
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_LeftShoulder/Zombie_LeftArm/Zombie_LeftForeArm/Zombie_LeftHand/Zombie_LeftHandIndex1/Zombie_LeftHandIndex2
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_LeftShoulder/Zombie_LeftArm/Zombie_LeftForeArm/Zombie_LeftHand/Zombie_LeftHandIndex1/Zombie_LeftHandIndex2/Zombie_LeftHandIndex3
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_LeftShoulder/Zombie_LeftArm/Zombie_LeftForeArm/Zombie_LeftHand/Zombie_LeftHandIndex1/Zombie_LeftHandIndex2/Zombie_LeftHandIndex3/Zombie_LeftHandIndex4
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_LeftShoulder/Zombie_LeftArm/Zombie_LeftForeArm/Zombie_LeftHand/Zombie_LeftHandMiddle1
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_LeftShoulder/Zombie_LeftArm/Zombie_LeftForeArm/Zombie_LeftHand/Zombie_LeftHandMiddle1/Zombie_LeftHandMiddle2
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_LeftShoulder/Zombie_LeftArm/Zombie_LeftForeArm/Zombie_LeftHand/Zombie_LeftHandMiddle1/Zombie_LeftHandMiddle2/Zombie_LeftHandMiddle3
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_LeftShoulder/Zombie_LeftArm/Zombie_LeftForeArm/Zombie_LeftHand/Zombie_LeftHandMiddle1/Zombie_LeftHandMiddle2/Zombie_LeftHandMiddle3/Zombie_LeftHandMiddle4
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_LeftShoulder/Zombie_LeftArm/Zombie_LeftForeArm/Zombie_LeftHand/Zombie_LeftHandPinky1
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_LeftShoulder/Zombie_LeftArm/Zombie_LeftForeArm/Zombie_LeftHand/Zombie_LeftHandPinky1/Zombie_LeftHandPinky2
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_LeftShoulder/Zombie_LeftArm/Zombie_LeftForeArm/Zombie_LeftHand/Zombie_LeftHandPinky1/Zombie_LeftHandPinky2/Zombie_LeftHandPinky3
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_LeftShoulder/Zombie_LeftArm/Zombie_LeftForeArm/Zombie_LeftHand/Zombie_LeftHandPinky1/Zombie_LeftHandPinky2/Zombie_LeftHandPinky3/Zombie_LeftHandPinky4
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_LeftShoulder/Zombie_LeftArm/Zombie_LeftForeArm/Zombie_LeftHand/Zombie_LeftHandRing1
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_LeftShoulder/Zombie_LeftArm/Zombie_LeftForeArm/Zombie_LeftHand/Zombie_LeftHandRing1/Zombie_LeftHandRing2
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_LeftShoulder/Zombie_LeftArm/Zombie_LeftForeArm/Zombie_LeftHand/Zombie_LeftHandRing1/Zombie_LeftHandRing2/Zombie_LeftHandRing3
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_LeftShoulder/Zombie_LeftArm/Zombie_LeftForeArm/Zombie_LeftHand/Zombie_LeftHandRing1/Zombie_LeftHandRing2/Zombie_LeftHandRing3/Zombie_LeftHandRing4
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_LeftShoulder/Zombie_LeftArm/Zombie_LeftForeArm/Zombie_LeftHand/Zombie_LeftHandThumb1
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_LeftShoulder/Zombie_LeftArm/Zombie_LeftForeArm/Zombie_LeftHand/Zombie_LeftHandThumb1/Zombie_LeftHandThumb2
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_LeftShoulder/Zombie_LeftArm/Zombie_LeftForeArm/Zombie_LeftHand/Zombie_LeftHandThumb1/Zombie_LeftHandThumb2/Zombie_LeftHandThumb3
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_LeftShoulder/Zombie_LeftArm/Zombie_LeftForeArm/Zombie_LeftHand/Zombie_LeftHandThumb1/Zombie_LeftHandThumb2/Zombie_LeftHandThumb3/Zombie_LeftHandThumb4
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_Neck
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_Neck/Zombie_Head
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_Neck/Zombie_Head/Zombie_low_jaw1
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_Neck/Zombie_Head/Zombie_low_jaw1/Zombie_low_jaw2
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_Neck/Zombie_Head/Zombie_low_jaw1/Zombie_low_jaw2/Zombie_low_jaw3
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_RightShoulder
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_RightShoulder/Zombie_RightArm
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_RightShoulder/Zombie_RightArm/Zombie_RightForeArm
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_RightShoulder/Zombie_RightArm/Zombie_RightForeArm/Zombie_RightHand
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_RightShoulder/Zombie_RightArm/Zombie_RightForeArm/Zombie_RightHand/Zombie_RightHandIndex1
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_RightShoulder/Zombie_RightArm/Zombie_RightForeArm/Zombie_RightHand/Zombie_RightHandIndex1/Zombie_RightHandIndex2
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_RightShoulder/Zombie_RightArm/Zombie_RightForeArm/Zombie_RightHand/Zombie_RightHandIndex1/Zombie_RightHandIndex2/Zombie_RightHandIndex3
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_RightShoulder/Zombie_RightArm/Zombie_RightForeArm/Zombie_RightHand/Zombie_RightHandIndex1/Zombie_RightHandIndex2/Zombie_RightHandIndex3/Zombie_RightHandIndex4
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_RightShoulder/Zombie_RightArm/Zombie_RightForeArm/Zombie_RightHand/Zombie_RightHandMiddle1
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_RightShoulder/Zombie_RightArm/Zombie_RightForeArm/Zombie_RightHand/Zombie_RightHandMiddle1/Zombie_RightHandMiddle2
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_RightShoulder/Zombie_RightArm/Zombie_RightForeArm/Zombie_RightHand/Zombie_RightHandMiddle1/Zombie_RightHandMiddle2/Zombie_RightHandMiddle3
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_RightShoulder/Zombie_RightArm/Zombie_RightForeArm/Zombie_RightHand/Zombie_RightHandMiddle1/Zombie_RightHandMiddle2/Zombie_RightHandMiddle3/Zombie_RightHandMiddle4
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_RightShoulder/Zombie_RightArm/Zombie_RightForeArm/Zombie_RightHand/Zombie_RightHandPinky1
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_RightShoulder/Zombie_RightArm/Zombie_RightForeArm/Zombie_RightHand/Zombie_RightHandPinky1/Zombie_RightHandPinky2
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_RightShoulder/Zombie_RightArm/Zombie_RightForeArm/Zombie_RightHand/Zombie_RightHandPinky1/Zombie_RightHandPinky2/Zombie_RightHandPinky3
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_RightShoulder/Zombie_RightArm/Zombie_RightForeArm/Zombie_RightHand/Zombie_RightHandPinky1/Zombie_RightHandPinky2/Zombie_RightHandPinky3/Zombie_RightHandPinky4
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_RightShoulder/Zombie_RightArm/Zombie_RightForeArm/Zombie_RightHand/Zombie_RightHandRing1
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_RightShoulder/Zombie_RightArm/Zombie_RightForeArm/Zombie_RightHand/Zombie_RightHandRing1/Zombie_RightHandRing2
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_RightShoulder/Zombie_RightArm/Zombie_RightForeArm/Zombie_RightHand/Zombie_RightHandRing1/Zombie_RightHandRing2/Zombie_RightHandRing3
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_RightShoulder/Zombie_RightArm/Zombie_RightForeArm/Zombie_RightHand/Zombie_RightHandRing1/Zombie_RightHandRing2/Zombie_RightHandRing3/Zombie_RightHandRing4
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_RightShoulder/Zombie_RightArm/Zombie_RightForeArm/Zombie_RightHand/Zombie_RightHandThumb1
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_RightShoulder/Zombie_RightArm/Zombie_RightForeArm/Zombie_RightHand/Zombie_RightHandThumb1/Zombie_RightHandThumb2
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_RightShoulder/Zombie_RightArm/Zombie_RightForeArm/Zombie_RightHand/Zombie_RightHandThumb1/Zombie_RightHandThumb2/Zombie_RightHandThumb3
+    m_Weight: 1
+  - m_Path: Zombie_Reference/Zombie_Hips/Zombie_Spine/Zombie_Spine1/Zombie_Spine2/Zombie_RightShoulder/Zombie_RightArm/Zombie_RightForeArm/Zombie_RightHand/Zombie_RightHandThumb1/Zombie_RightHandThumb2/Zombie_RightHandThumb3/Zombie_RightHandThumb4
+    m_Weight: 1

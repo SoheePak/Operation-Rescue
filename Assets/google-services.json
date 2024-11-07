@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1066837715479",
+    "project_id": "zomb-3019d",
+    "storage_bucket": "zomb-3019d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1066837715479:android:efa212a07a895277e74a52",
+        "android_client_info": {
+          "package_name": "com.PobyCompany.Zombie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAx_kUK2BRQ7yatpDcdIbs24yqB1PCXiY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
